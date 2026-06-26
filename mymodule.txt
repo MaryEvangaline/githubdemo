@@ -1,3 +1,13 @@
 print("This is my first module") 
+<<<<<<< HEAD
 print("Hello World")
 print("Hello World2")
+print("Hello World3")
+<<<<<<< HEAD
+print("Hello World4")
+=======
+print("Hello World")
+>>>>>>> parent of 59bad7e (test commit 2)
+=======
+
+>>>>>>> parent of df1ed8d (test commit 4)
